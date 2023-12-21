@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakmi Zohir</h1>
 <h3 align="center">Computer Science Student From Algeria ..</h3>
-<img align="right" alt="Design" width="400" src="https://shorturl.at/DNY28">
+<img align="right" alt="Design" width="200" src="https://shorturl.at/DNY28">
 
 - 🖥️ I’m currently learning **Motion design on after affect ..**
 
